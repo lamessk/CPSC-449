@@ -1,0 +1,1 @@
+animal('Thika', elephant, 2500).
